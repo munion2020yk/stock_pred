@@ -1,8 +1,8 @@
 streamlit
-FinanceDataReader
+finance-datareader
 pandas
 numpy
 plotly
 yfinance
 pykrx
-pytorch
+torch
