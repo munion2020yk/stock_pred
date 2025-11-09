@@ -1,0 +1,8 @@
+streamlit
+FinanceDataReader
+pandas
+scikit-learn
+numpy
+plotly
+yfinance
+pykrx
